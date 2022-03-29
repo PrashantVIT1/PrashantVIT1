@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant Raj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">An Aspiring Software and Electronics Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantvit1&label=Profile%20views&color=0e75b6&style=flat" alt="prashantvit1" /> </p>
 
