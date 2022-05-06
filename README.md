@@ -32,12 +32,15 @@
 
 
 <p align="center" style="padding:5px"> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=prashantvit1&show_icons=true&locale=en" alt="prashantvit1" />
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantvit1" alt="prashantvit1" />
 </a> </p>
 <p align="center" style="padding:5px"> 
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashantvit1&show_icons=true&locale=en&layout=compact" alt="prashantvit1"/>
-</a> </p>
+</a> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+</p>
 
 
 
