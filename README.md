@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **praaj99341@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Dngk6xB1MmoZy_xAPgJNz9NnHtIcwTZG/view?usp=sharing](https://drive.google.com/file/d/1Dngk6xB1MmoZy_xAPgJNz9NnHtIcwTZG/view?usp=sharing)
+- 📄 Know about my experiences ([LinkedIn](https://www.linkedin.com/in/prashant-raj-8219b11aa/))
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="left">
