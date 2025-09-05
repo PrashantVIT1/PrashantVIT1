@@ -9,11 +9,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" ><img src="https://github-profile-trophy.vercel.app/?username=prashantvit1&row=1&column=6&theme=onedark" alt="prashantvit1"/></a> </p>
 
-- 🌱 I’m currently learning **Computer Networks, Cloud Computing and ML**
+- 💬 Ask me about **Python, C++, Frontend development , DSA ,OS and DBMS, Computer Networks, Cloud Computing and ML**
 
-- 💬 Ask me about **Python, C++, Frontend development , DSA ,OS and DBMS**
-
-- 📫 How to reach me **Raj.prashant19@vit.edu**
+- 📫 How to reach me **praaj99341@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Dngk6xB1MmoZy_xAPgJNz9NnHtIcwTZG/view?usp=sharing](https://drive.google.com/file/d/1Dngk6xB1MmoZy_xAPgJNz9NnHtIcwTZG/view?usp=sharing)
 
