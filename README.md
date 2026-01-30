@@ -9,7 +9,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" ><img src="https://github-profile-trophy.vercel.app/?username=prashantvit1&row=1&column=6&theme=onedark" alt="prashantvit1"/></a> </p>
 
-- 💬 Ask me about **Python, C++, Frontend development , DSA ,OS and DBMS, Computer Networks, Cloud Computing and ML**
+- 💬 Ask me about **Python, C++, Frontend development , DSA ,OS and DBMS, JAVA Springboot, Computer Networks, Cloud Computing and ML**
 
 - 📫 How to reach me **praaj99341@gmail.com**
 
