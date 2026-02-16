@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, C++, Frontend development , DSA ,OS and DBMS, JAVA Springboot, Computer Networks, Cloud Computing and ML**
 
-- 📫 How to reach me **praaj99341@gmail.com**
+- 📫 How to reach me **raj.prashant19@vit.edu**
 
 - 📄 Know about my experiences ([LinkedIn](https://www.linkedin.com/in/prashant-raj-8219b11aa/))
 
