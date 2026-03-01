@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Prashant Raj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Electronics+And+Telecommunication+Student;An+Aspiring+Software+and+Electronics+Engineer;DS%20|%20Algorithms%20|%20OOP%20;Opensource+GSSOC'22%20|%20DevIncept'21%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+(2.6+years);Immediate+Joiner;DS%20|%20Algorithms%20|%20OOP%20;Opensource+GSSOC'22%20|%20DevIncept'21%20;Ethos:learning%20by%20Doing&center=true&width=500&height=50"></a>
 </p>
 
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, C++, Frontend development , DSA ,OS and DBMS, JAVA Springboot, Computer Networks, Cloud Computing and ML**
 
-- 📫 How to reach me **praaj99341@gmail.com, raj.prashant19@vit.edu **
+- 📫 How to reach me ** praaj99341@gmail.com, raj.prashant19@vit.edu **
 
 - 📄 Know about my experiences ([LinkedIn](https://www.linkedin.com/in/prashant-raj-8219b11aa/))
 
@@ -29,14 +29,9 @@
 
 <p align="center" style="padding:5px"> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashantvit1&show_icons=true&locale=en" alt="prashantvit1" />
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantvit1" alt="prashantvit1" />
 </a> </p>
-<p align="center" style="padding:5px"> 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashantvit1&show_icons=true&locale=en&layout=compact" alt="prashantvit1"/>
-</a> 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-</p>
+
 
 
 
