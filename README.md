@@ -1,37 +1,211 @@
-<h1 align="center">Hi, I'm Prashant Raj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+Hi 👋, I'm Prashant Raj
+</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+(2.6+years);Immediate+Joiner;DS%20|%20Algorithms%20|%20OOP%20;Opensource+GSSOC'22%20|%20DevIncept'21%20;Ethos:learning%20by%20Doing&center=true&width=500&height=50"></a>
+<b>AI / ML • Backend Engineering • High Performance Systems</b>
+</p>
+
+<p align="center">
+Software Engineer with <b>2.6 years of experience</b> building scalable backend systems,
+high-performance C++ applications, and AI/ML solutions using Python.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=prashantvit1&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+• Software Engineer with **2.6 years of experience**  
+• Strong foundation in **Data Structures, Algorithms, OOP, OS, DBMS, and Computer Networks**  
+• Interested in **AI/ML systems, scalable backend architectures, and high-performance computing**  
+• Passionate about **building reliable systems and solving complex engineering problems**
+
+---
+
+## 🚀 Core Engineering Areas
+
+### 🧠 AI / Machine Learning
+
+- Python based ML experimentation and model development  
+- Data processing using scientific computing libraries  
+- Practical ML problem solving and Kaggle experimentation  
+
+### ⚙️ Backend Engineering
+
+- REST API development using **Java + Spring Boot**  
+- Microservice oriented backend architecture  
+- Database integration and scalable service design  
+
+### 🚀 High Performance Systems
+
+- Performance focused applications using **C++**  
+- System level programming and file system operations  
+- Memory efficient and optimized implementations  
+
+---
+
+## 🛠 Tech Stack
+
+<table align="center">
+<tr>
+<th align="center">Languages</th>
+<th align="center">Backend</th>
+<th align="center">AI / ML</th>
+<th align="center">Databases</th>
+<th align="center">Tools</th>
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35"/><br>Java<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/><br>Python<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35"/><br>C++<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/><br>JavaScript
+
+</td>
+
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35"/><br>Spring Boot<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35"/><br>Node.js
+
+</td>
+
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/><br>Python<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="35"/><br>OpenCV<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35"/><br>Pandas<br><br>
+
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="35"/><br>Scikit-Learn<br><br>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="35"/><br>Matplotlib
+
+</td>
+
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35"/><br>MongoDB<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/><br>MySQL<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35"/><br>PostgreSQL<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="35"/><br>Redis
+
+</td>
+
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/><br>Git<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35"/><br>Linux<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35"/><br>Docker<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="35"/><br>AWS<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="35"/><br>Kafka
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 📂 Featured Projects
+
+### Backend Order Service
+
+Spring Boot microservice for order management.
+
+**Tech Stack**
+
+Java • Spring Boot • REST APIs  
+
+🔗 https://github.com/PrashantVIT1/backend-order-service
+
+---
+
+### Resilient Backup Engine
+
+High performance backup and restore system implemented in C++ with recursive file handling.
+
+**Tech Stack**
+
+C++ • File Systems • Linux / Windows  
+
+🔗 https://github.com/PrashantVIT1/resilient-backup-engine
+
+---
+
+### Journal App
+
+RESTful backend application for managing journal entries with MongoDB.
+
+**Tech Stack**
+
+Java • Spring Boot • MongoDB  
+
+🔗 https://github.com/PrashantVIT1/journal-app
+
+---
+
+## 📊 GitHub Stats
+
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrashantVIT1"/>
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantvit1&label=Profile%20views&color=0e75b6&style=flat" alt="prashantvit1" /> </p>
+---
 
-- 💬 Ask me about **Python, C++, Frontend development , DSA ,OS and DBMS, JAVA Springboot, Computer Networks, Cloud Computing and ML**
+## 📈 Contribution Graph
 
-- 📫 How to reach me ** praaj99341@gmail.com, raj.prashant19@vit.edu **
-
-- 📄 Know about my experiences ([LinkedIn](https://www.linkedin.com/in/prashant-raj-8219b11aa/))
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
-<p align="left">
 <p align="center">
- <a href="https://www.hackerrank.com/praaj99341" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/praaj99341" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/1Prashant_Raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/user8130d/" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/prashant-raj-8219b11aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prashant-raj-8219b11aa/" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/prashantraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/prashantraz" height="30" width="40" /></a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrashantVIT1"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/prashant-raj-8219b11aa/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/u/1Prashant_Raj">
+<img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode"/>
+</a>
+
+<a href="https://www.hackerrank.com/praaj99341">
+<img src="https://img.shields.io/badge/HackerRank-green?logo=hackerrank"/>
+</a>
+
+<a href="https://www.kaggle.com/prashantraz">
+<img src="https://img.shields.io/badge/Kaggle-blue?logo=kaggle"/>
+</a>
 
 </p>
 
-# <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages and Tools:
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+## 📫 Contact
 
-<p align="center" style="padding:5px"> 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantvit1" alt="prashantvit1" />
-</a> </p>
-
-
-
-
+📧 **Email:** praaj99341@gmail.com
