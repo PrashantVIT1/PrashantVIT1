@@ -39,18 +39,19 @@
 
   <!-- ══════ TERMINAL y=196 h=258 bottom=454 ══════ -->
   <g class="s2">
-    <rect x="42" y="196" width="1116" height="258" rx="10" fill="#010409" stroke="#1D9E75" stroke-width="1.5"/>
+    <rect x="42" y="196" width="1116" height="273" rx="10" fill="#010409" stroke="#1D9E75" stroke-width="1.5"/>
     <circle cx="66"  cy="223" r="7" fill="#E24B4A"/>
     <circle cx="88"  cy="223" r="7" fill="#EF9F27"/>
     <circle cx="110" cy="223" r="7" fill="#1D9E75"/>
     <text x="128" y="228" font-size="13" fill="#5DCAA5" class="mono">prashant@portfolio ~ $</text>
-    <text x="64" y="264" font-size="15" class="mono"><tspan fill="#1D9E75">$ </tspan><tspan fill="#e6edf3">cat about.json</tspan></text>
-    <text x="64" y="293" font-size="15" fill="#8b949e" class="mono">{</text>
-    <text x="64" y="322" font-size="15" class="mono"><tspan fill="#5DCAA5">  "role"</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#9FE1CB">"Software Developer Engineer @ Visteon India"</tspan><tspan fill="#8b949e">,</tspan></text>
-    <text x="64" y="351" font-size="15" class="mono"><tspan fill="#5DCAA5">  "certs"</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#9FE1CB">["OCI 2025 Gen AI Pro", "Oracle DB@AWS Architect"]</tspan><tspan fill="#8b949e">,</tspan></text>
-    <text x="64" y="380" font-size="15" class="mono"><tspan fill="#5DCAA5">  "building"</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#9FE1CB">"OrderMind — Spring Boot + RAG platform"</tspan><tspan fill="#8b949e">,</tspan></text>
-    <text x="64" y="409" font-size="15" class="mono"><tspan fill="#5DCAA5">  "portfolio"</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#1D9E75">"https://prashantvit1.github.io"</tspan><tspan fill="#8b949e">,</tspan></text>
-    <text x="64" y="438" font-size="15" class="mono"><tspan fill="#5DCAA5">  "status"</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#1D9E75">"open to work"</tspan></text>
+    <text x="64" y="262" font-size="15" class="mono"><tspan fill="#1D9E75">$ </tspan><tspan fill="#e6edf3">cat about.json</tspan></text>
+    <text x="64" y="290" font-size="15" fill="#8b949e" class="mono">{</text>
+    <text x="64" y="318" font-size="15" class="mono"><tspan fill="#5DCAA5">  "role"</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#9FE1CB">"Software Developer Engineer @ Visteon India"</tspan><tspan fill="#8b949e">,</tspan></text>
+    <text x="64" y="346" font-size="15" class="mono"><tspan fill="#5DCAA5">  "certs"</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#9FE1CB">["OCI 2025 Gen AI Pro", "Oracle DB@AWS Architect"]</tspan><tspan fill="#8b949e">,</tspan></text>
+    <text x="64" y="374" font-size="15" class="mono"><tspan fill="#5DCAA5">  "building"</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#9FE1CB">"OrderMind — Spring Boot + RAG platform"</tspan><tspan fill="#8b949e">,</tspan></text>
+    <text x="64" y="402" font-size="15" class="mono"><tspan fill="#5DCAA5">  "portfolio"</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#1D9E75">"https://prashantvit1.github.io"</tspan><tspan fill="#8b949e">,</tspan></text>
+    <text x="64" y="430" font-size="15" class="mono"><tspan fill="#5DCAA5">  "status"</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#1D9E75">"open to work"</tspan></text>
+    <text x="64" y="458" font-size="15" fill="#8b949e" class="mono">}</text>
   </g>
 
   <!-- ══════ TECH STACK y=474 ══════ -->
