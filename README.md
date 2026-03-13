@@ -94,6 +94,8 @@ Java • Spring Boot • MongoDB
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/1Prashant_Raj/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praaj99341@gmail.com)
 
+Gmail : Praaj99341@gmail.com
+
 </div>
 
 ---
