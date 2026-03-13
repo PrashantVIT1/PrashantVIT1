@@ -1,4 +1,4 @@
-<svg width="1200" height="960" viewBox="0 0 1200 960" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="870" viewBox="0 0 1200 870" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
       .mono{font-family:'Courier New',Courier,monospace}
@@ -16,7 +16,7 @@
     <clipPath id="avc"><circle cx="108" cy="110" r="63"/></clipPath>
   </defs>
 
-  <rect width="1200" height="960" fill="#0d1117" rx="16"/>
+  <rect width="1200" height="870" fill="#0d1117" rx="16"/>
 
   <!-- ══════ HERO ══════ -->
   <g class="s1">
@@ -125,18 +125,18 @@
 
   <!-- ══════ STAT CARDS y=860 ══════ -->
   <g class="s5">
-    <rect x="42"  y="860" width="264" height="76" rx="10" fill="#010409" stroke="#1D9E75" stroke-width="1.5"/>
-    <text x="174" y="898" font-size="28" font-weight="500" fill="#5DCAA5" class="mono" text-anchor="middle">2.6</text>
-    <text x="174" y="922" font-size="13" fill="#8b949e" class="mono" text-anchor="middle">yrs experience</text>
-    <rect x="324" y="860" width="264" height="76" rx="10" fill="#010409" stroke="#1D9E75" stroke-width="1.5"/>
-    <text x="456" y="898" font-size="28" font-weight="500" fill="#5DCAA5" class="mono" text-anchor="middle">2</text>
-    <text x="456" y="922" font-size="13" fill="#8b949e" class="mono" text-anchor="middle">Oracle certs</text>
-    <rect x="606" y="860" width="264" height="76" rx="10" fill="#010409" stroke="#1D9E75" stroke-width="1.5"/>
-    <text x="738" y="898" font-size="28" font-weight="500" fill="#5DCAA5" class="mono" text-anchor="middle">VIT</text>
-    <text x="738" y="922" font-size="13" fill="#8b949e" class="mono" text-anchor="middle">Pune grad</text>
-    <rect x="888" y="860" width="270" height="76" rx="10" fill="#010409" stroke="#1D9E75" stroke-width="1.5"/>
-    <text x="1023" y="894" font-size="20" font-weight="500" fill="#5DCAA5" class="mono" text-anchor="middle">Immediate</text>
-    <text x="1023" y="922" font-size="13" fill="#8b949e" class="mono" text-anchor="middle">joiner</text>
+    <rect x="42"  y="770" width="264" height="76" rx="10" fill="#010409" stroke="#1D9E75" stroke-width="1.5"/>
+    <text x="174" y="808" font-size="28" font-weight="500" fill="#5DCAA5" class="mono" text-anchor="middle">2.6</text>
+    <text x="174" y="832" font-size="13" fill="#8b949e" class="mono" text-anchor="middle">yrs experience</text>
+    <rect x="324" y="770" width="264" height="76" rx="10" fill="#010409" stroke="#1D9E75" stroke-width="1.5"/>
+    <text x="456" y="808" font-size="28" font-weight="500" fill="#5DCAA5" class="mono" text-anchor="middle">2</text>
+    <text x="456" y="832" font-size="13" fill="#8b949e" class="mono" text-anchor="middle">Oracle certs</text>
+    <rect x="606" y="770" width="264" height="76" rx="10" fill="#010409" stroke="#1D9E75" stroke-width="1.5"/>
+    <text x="738" y="808" font-size="28" font-weight="500" fill="#5DCAA5" class="mono" text-anchor="middle">VIT</text>
+    <text x="738" y="832" font-size="13" fill="#8b949e" class="mono" text-anchor="middle">Pune grad</text>
+    <rect x="888" y="770" width="270" height="76" rx="10" fill="#010409" stroke="#1D9E75" stroke-width="1.5"/>
+    <text x="1023" y="808" font-size="20" font-weight="500" fill="#5DCAA5" class="mono" text-anchor="middle">Immediate</text>
+    <text x="1023" y="832" font-size="13" fill="#8b949e" class="mono" text-anchor="middle">joiner</text>
   </g>
 
 </svg>
