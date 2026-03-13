@@ -3,10 +3,10 @@
 
   <!-- Languages -->
   <text x="380" y="32" font-size="11" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" fill="#8b949e" text-anchor="middle" letter-spacing="1.5">LANGUAGES</text>
-  <image href="https://skillicons.dev/icons?i=java&theme=dark" x="120" y="44" width="48" height="48"/>
-  <image href="https://skillicons.dev/icons?i=python&theme=dark" x="228" y="44" width="48" height="48"/>
-  <image href="https://skillicons.dev/icons?i=cpp&theme=dark" x="336" y="44" width="48" height="48"/>
-  <image href="https://skillicons.dev/icons?i=js&theme=dark" x="444" y="44" width="48" height="48"/>
+  <image href="https://skillicons.dev/icons?i=java&amp;theme=dark" x="120" y="44" width="48" height="48"/>
+  <image href="https://skillicons.dev/icons?i=python&amp;theme=dark" x="228" y="44" width="48" height="48"/>
+  <image href="https://skillicons.dev/icons?i=cpp&amp;theme=dark" x="336" y="44" width="48" height="48"/>
+  <image href="https://skillicons.dev/icons?i=js&amp;theme=dark" x="444" y="44" width="48" height="48"/>
   <text x="144" y="104" font-size="11" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" fill="#8b949e" text-anchor="middle">Java</text>
   <text x="252" y="104" font-size="11" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" fill="#8b949e" text-anchor="middle">Python</text>
   <text x="360" y="104" font-size="11" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" fill="#8b949e" text-anchor="middle">C++</text>
@@ -14,17 +14,17 @@
 
   <!-- Backend -->
   <text x="380" y="128" font-size="11" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" fill="#8b949e" text-anchor="middle" letter-spacing="1.5">BACKEND</text>
-  <image href="https://skillicons.dev/icons?i=spring&theme=dark" x="174" y="140" width="48" height="48"/>
-  <image href="https://skillicons.dev/icons?i=fastapi&theme=dark" x="282" y="140" width="48" height="48"/>
-  <image href="https://skillicons.dev/icons?i=nodejs&theme=dark" x="390" y="140" width="48" height="48"/>
+  <image href="https://skillicons.dev/icons?i=spring&amp;theme=dark" x="174" y="140" width="48" height="48"/>
+  <image href="https://skillicons.dev/icons?i=fastapi&amp;theme=dark" x="282" y="140" width="48" height="48"/>
+  <image href="https://skillicons.dev/icons?i=nodejs&amp;theme=dark" x="390" y="140" width="48" height="48"/>
   <text x="198" y="200" font-size="11" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" fill="#8b949e" text-anchor="middle">Spring Boot</text>
   <text x="306" y="200" font-size="11" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" fill="#8b949e" text-anchor="middle">FastAPI</text>
   <text x="414" y="200" font-size="11" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" fill="#8b949e" text-anchor="middle">Node.js</text>
 
   <!-- AI/ML -->
   <text x="380" y="224" font-size="11" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" fill="#8b949e" text-anchor="middle" letter-spacing="1.5">AI / ML</text>
-  <image href="https://skillicons.dev/icons?i=pytorch&theme=dark" x="66" y="236" width="48" height="48"/>
-  <image href="https://skillicons.dev/icons?i=tensorflow&theme=dark" x="174" y="236" width="48" height="48"/>
+  <image href="https://skillicons.dev/icons?i=pytorch&amp;theme=dark" x="66" y="236" width="48" height="48"/>
+  <image href="https://skillicons.dev/icons?i=tensorflow&amp;theme=dark" x="174" y="236" width="48" height="48"/>
   <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" x="282" y="236" width="48" height="48"/>
   <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" x="390" y="236" width="48" height="48"/>
   <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" x="498" y="236" width="48" height="48"/>
@@ -34,25 +34,25 @@
   <text x="414" y="296" font-size="11" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" fill="#8b949e" text-anchor="middle">Scikit-Learn</text>
   <text x="522" y="296" font-size="11" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" fill="#8b949e" text-anchor="middle">OpenCV</text>
 
-  <!-- Cloud & DevOps -->
+  <!-- Cloud &amp; DevOps -->
   <text x="380" y="320" font-size="11" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" fill="#8b949e" text-anchor="middle" letter-spacing="1.5">CLOUD &amp; DEVOPS</text>
-  <image href="https://skillicons.dev/icons?i=aws&theme=dark" x="66" y="332" width="48" height="48"/>
-  <image href="https://skillicons.dev/icons?i=docker&theme=dark" x="174" y="332" width="48" height="48"/>
-  <image href="https://skillicons.dev/icons?i=kubernetes&theme=dark" x="282" y="332" width="48" height="48"/>
-  <image href="https://skillicons.dev/icons?i=linux&theme=dark" x="390" y="332" width="48" height="48"/>
-  <image href="https://skillicons.dev/icons?i=git&theme=dark" x="498" y="332" width="48" height="48"/>
+  <image href="https://skillicons.dev/icons?i=aws&amp;theme=dark" x="66" y="332" width="48" height="48"/>
+  <image href="https://skillicons.dev/icons?i=docker&amp;theme=dark" x="174" y="332" width="48" height="48"/>
+  <image href="https://skillicons.dev/icons?i=kubernetes&amp;theme=dark" x="282" y="332" width="48" height="48"/>
+  <image href="https://skillicons.dev/icons?i=linux&amp;theme=dark" x="390" y="332" width="48" height="48"/>
+  <image href="https://skillicons.dev/icons?i=git&amp;theme=dark" x="498" y="332" width="48" height="48"/>
   <text x="90" y="392" font-size="11" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" fill="#8b949e" text-anchor="middle">AWS</text>
   <text x="198" y="392" font-size="11" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" fill="#8b949e" text-anchor="middle">Docker</text>
   <text x="306" y="392" font-size="11" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" fill="#8b949e" text-anchor="middle">Kubernetes</text>
   <text x="414" y="392" font-size="11" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" fill="#8b949e" text-anchor="middle">Linux</text>
   <text x="522" y="392" font-size="11" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" fill="#8b949e" text-anchor="middle">Git</text>
 
-  <!-- Databases & Messaging -->
+  <!-- Databases &amp; Messaging -->
   <text x="380" y="416" font-size="11" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" fill="#8b949e" text-anchor="middle" letter-spacing="1.5">DATABASES &amp; MESSAGING</text>
-  <image href="https://skillicons.dev/icons?i=postgresql&theme=dark" x="120" y="428" width="48" height="48"/>
-  <image href="https://skillicons.dev/icons?i=mysql&theme=dark" x="228" y="428" width="48" height="48"/>
-  <image href="https://skillicons.dev/icons?i=mongodb&theme=dark" x="336" y="428" width="48" height="48"/>
-  <image href="https://skillicons.dev/icons?i=redis&theme=dark" x="444" y="428" width="48" height="48"/>
+  <image href="https://skillicons.dev/icons?i=postgresql&amp;theme=dark" x="120" y="428" width="48" height="48"/>
+  <image href="https://skillicons.dev/icons?i=mysql&amp;theme=dark" x="228" y="428" width="48" height="48"/>
+  <image href="https://skillicons.dev/icons?i=mongodb&amp;theme=dark" x="336" y="428" width="48" height="48"/>
+  <image href="https://skillicons.dev/icons?i=redis&amp;theme=dark" x="444" y="428" width="48" height="48"/>
   <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" x="552" y="428" width="48" height="48"/>
   <text x="144" y="488" font-size="11" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" fill="#8b949e" text-anchor="middle">PostgreSQL</text>
   <text x="252" y="488" font-size="11" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" fill="#8b949e" text-anchor="middle">MySQL</text>
