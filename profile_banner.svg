@@ -1,0 +1,95 @@
+<svg width="1200" height="726" viewBox="0 0 1200 726" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .mono{font-family:'Courier New',Courier,monospace}
+      @keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
+      .cur{animation:blink 1s step-end infinite}
+      @keyframes fa{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+      .s1{animation:fa .4s ease .1s both}
+      .s2{animation:fa .4s ease .4s both}
+      .s3{animation:fa .4s ease .7s both}
+      .s4{animation:fa .4s ease 1s both}
+    </style>
+    <clipPath id="avc">
+      <circle cx="108" cy="102" r="63"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="726" fill="#0d1117" rx="16"/>
+
+  <!-- ══════ HERO y=36 bottom=180 ══════ -->
+  <g class="s1">
+    <circle cx="108" cy="102" r="68" fill="#0f2a20" stroke="#1D9E75" stroke-width="3"/>
+    <image href="https://avatars.githubusercontent.com/PrashantVIT1?v=4"
+           x="42" y="36" width="132" height="132"
+           clip-path="url(#avc)" preserveAspectRatio="xMidYMid slice"/>
+    <text x="201" y="87"  font-size="32" font-weight="500" fill="#e6edf3" class="mono">Hi, I'm Prashant Raj<tspan class="cur" fill="#1D9E75">|</tspan></text>
+    <text x="201" y="123" font-size="18" fill="#5DCAA5" class="mono">$ Software Developer Engineer | Open to work</text>
+  </g>
+
+  <!-- ══════ TERMINAL y=210 h=256 bottom=466 ══════ -->
+  <g class="s2">
+    <rect x="42" y="210" width="1116" height="256" rx="10" fill="#010409" stroke="#1D9E75" stroke-width="1.5"/>
+    <circle cx="66"  cy="237" r="7" fill="#E24B4A"/>
+    <circle cx="88"  cy="237" r="7" fill="#EF9F27"/>
+    <circle cx="110" cy="237" r="7" fill="#1D9E75"/>
+    <text x="128" y="242" font-size="13" fill="#5DCAA5" class="mono">prashant@portfolio ~ $</text>
+    <text x="64" y="278" font-size="15" class="mono"><tspan fill="#1D9E75">$ </tspan><tspan fill="#e6edf3">cat about.json</tspan></text>
+    <text x="64" y="307" font-size="15" fill="#8b949e" class="mono">{</text>
+    <text x="64" y="336" font-size="15" class="mono"><tspan fill="#5DCAA5">  "role"</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#9FE1CB">"Software Developer Engineer @ Visteon India"</tspan><tspan fill="#8b949e">,</tspan></text>
+    <text x="64" y="365" font-size="15" class="mono"><tspan fill="#5DCAA5">  "certs"</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#9FE1CB">["OCI 2025 Gen AI Pro", "Oracle DB@AWS Architect"]</tspan><tspan fill="#8b949e">,</tspan></text>
+    <text x="64" y="394" font-size="15" class="mono"><tspan fill="#5DCAA5">  "building"</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#9FE1CB">"OrderMind — Spring Boot + RAG platform"</tspan><tspan fill="#8b949e">,</tspan></text>
+    <text x="64" y="423" font-size="15" class="mono"><tspan fill="#5DCAA5">  "status"</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#1D9E75">"open to work"</tspan></text>
+    <text x="64" y="452" font-size="15" fill="#8b949e" class="mono">}</text>
+  </g>
+
+  <!-- ══════ TECH STACK y=490 bottom=560 ══════ -->
+  <g class="s3">
+    <text x="42" y="508" font-size="13" fill="#5DCAA5" class="mono" letter-spacing="2">TECH STACK</text>
+    <!-- badges: y=516, h=36 -->
+    <rect x="42"  y="516" width="78"  height="36" rx="7" fill="#0f2a20" stroke="#0F6E56" stroke-width="1.5"/>
+    <text x="81"  y="539" font-size="14" fill="#5DCAA5" class="mono" text-anchor="middle">Java</text>
+
+    <rect x="130" y="516" width="130" height="36" rx="7" fill="#0a2410" stroke="#3B6D11" stroke-width="1.5"/>
+    <text x="195" y="539" font-size="14" fill="#9FE1CB" class="mono" text-anchor="middle">Spring Boot</text>
+
+    <rect x="272" y="516" width="70"  height="36" rx="7" fill="#1a1200" stroke="#854F0B" stroke-width="1.5"/>
+    <text x="307" y="539" font-size="14" fill="#FAC775" class="mono" text-anchor="middle">AWS</text>
+
+    <rect x="354" y="516" width="94"  height="36" rx="7" fill="#051a2e" stroke="#185FA5" stroke-width="1.5"/>
+    <text x="401" y="539" font-size="14" fill="#85B7EB" class="mono" text-anchor="middle">Docker</text>
+
+    <rect x="460" y="516" width="80"  height="36" rx="7" fill="#1a0f00" stroke="#BA7517" stroke-width="1.5"/>
+    <text x="500" y="539" font-size="14" fill="#EF9F27" class="mono" text-anchor="middle">Kafka</text>
+
+    <rect x="552" y="516" width="94"  height="36" rx="7" fill="#1a1000" stroke="#854F0B" stroke-width="1.5"/>
+    <text x="599" y="539" font-size="14" fill="#FAC775" class="mono" text-anchor="middle">Python</text>
+
+    <rect x="658" y="516" width="60"  height="36" rx="7" fill="#0f2a20" stroke="#0F6E56" stroke-width="1.5"/>
+    <text x="688" y="539" font-size="14" fill="#5DCAA5" class="mono" text-anchor="middle">OCI</text>
+
+    <rect x="730" y="516" width="128" height="36" rx="7" fill="#051a2e" stroke="#185FA5" stroke-width="1.5"/>
+    <text x="794" y="539" font-size="14" fill="#85B7EB" class="mono" text-anchor="middle">PostgreSQL</text>
+  </g>
+
+  <!-- ══════ STAT CARDS y=600 h=96 bottom=696 ══════ -->
+  <g class="s4">
+    <rect x="42"  y="600" width="264" height="96" rx="10" fill="#010409" stroke="#1D9E75" stroke-width="1.5"/>
+    <text x="174" y="644" font-size="30" font-weight="500" fill="#5DCAA5" class="mono" text-anchor="middle">2.6</text>
+    <text x="174" y="674" font-size="14" fill="#8b949e" class="mono" text-anchor="middle">yrs experience</text>
+
+    <rect x="324" y="600" width="264" height="96" rx="10" fill="#010409" stroke="#1D9E75" stroke-width="1.5"/>
+    <text x="456" y="644" font-size="30" font-weight="500" fill="#5DCAA5" class="mono" text-anchor="middle">2</text>
+    <text x="456" y="674" font-size="14" fill="#8b949e" class="mono" text-anchor="middle">Oracle certs</text>
+
+    <rect x="606" y="600" width="264" height="96" rx="10" fill="#010409" stroke="#1D9E75" stroke-width="1.5"/>
+    <text x="738" y="644" font-size="30" font-weight="500" fill="#5DCAA5" class="mono" text-anchor="middle">VIT</text>
+    <text x="738" y="674" font-size="14" fill="#8b949e" class="mono" text-anchor="middle">Pune grad</text>
+
+    <rect x="888" y="600" width="270" height="96" rx="10" fill="#010409" stroke="#1D9E75" stroke-width="1.5"/>
+    <text x="1023" y="638" font-size="22" font-weight="500" fill="#5DCAA5" class="mono" text-anchor="middle">Immediate</text>
+    <text x="1023" y="674" font-size="14" fill="#8b949e" class="mono" text-anchor="middle">joiner</text>
+  </g>
+
+</svg>
