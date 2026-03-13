@@ -36,7 +36,6 @@
 
 ## 🚀 Featured Project
 
-
 ### Backend Order Service
 
 Spring Boot microservice for order management.
