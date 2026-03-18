@@ -26,7 +26,7 @@
     <!-- Name -->
     <text x="201" y="82" font-size="32" font-weight="500" fill="#e6edf3" class="mono">Hi, I'm Prashant Raj<tspan class="cur" fill="#1D9E75">|</tspan></text>
     <!-- Role -->
-    <text x="201" y="114" font-size="17" fill="#5DCAA5" class="mono">$ Software Developer Engineer @ Visteon India</text>
+    <text x="201" y="114" font-size="17" fill="#5DCAA5" class="mono">$ Former Software Development Engineer @ Visteon India</text>
 
     <!-- Portfolio pill — shorter, clickable -->
     <a href="https://prashantvit1.github.io" target="_blank">
