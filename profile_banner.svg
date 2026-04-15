@@ -127,7 +127,7 @@
   <!-- ══════ STAT CARDS y=860 ══════ -->
   <g class="s5">
     <rect x="42"  y="770" width="264" height="76" rx="10" fill="#010409" stroke="#1D9E75" stroke-width="1.5"/>
-    <text x="174" y="808" font-size="28" font-weight="500" fill="#5DCAA5" class="mono" text-anchor="middle">2.6</text>
+    <text x="174" y="808" font-size="28" font-weight="500" fill="#5DCAA5" class="mono" text-anchor="middle">3</text>
     <text x="174" y="832" font-size="13" fill="#8b949e" class="mono" text-anchor="middle">yrs experience</text>
     <rect x="324" y="770" width="264" height="76" rx="10" fill="#010409" stroke="#1D9E75" stroke-width="1.5"/>
     <text x="456" y="808" font-size="28" font-weight="500" fill="#5DCAA5" class="mono" text-anchor="middle">2</text>
